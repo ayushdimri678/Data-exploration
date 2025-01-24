@@ -1,38 +1,50 @@
 Overview
-This section summarizes the insights derived from the SQL queries run on the layoffs_staging2 table. The analysis explores various dimensions, including the overall layoffs, industry-wise trends, country-wise distributions, and time-based analysis (monthly and yearly).
+
+This section summarizes the insights derived from the SQL queries run on the layoffs_staging2 table.
+The analysis explores various dimensions, including the overall layoffs, industry-wise trends, 
+country-wise distributions, and time-based analysis (monthly and yearly).
 
 1. General Overview of Layoffs
+
 •	Maximum Layoffs: The highest number of layoffs recorded in the dataset was 1,200.
 •	Minimum Layoffs: The lowest number of layoffs recorded was 3.
+
 2. Companies with the Highest Percentage of Layoffs
-•	Highest Percentage of Layoffs: A significant portion of companies in the dataset (116 companies) laid off 100% of their workforce, indicating a complete workforce reduction in these organizations.
+•	Highest Percentage of Layoffs: A significant portion of companies in the dataset (116 companies) laid off 100% of their workforce, 
+indicating a complete workforce reduction in these organizations.
+
 3. Companies with the Highest Fundraising Amounts
 •	The following companies raised the highest amounts of funds while undergoing substantial layoffs:
 o	Netflix
 o	Uber
 o	Meta
 o	Tesla
+
 4. Top Companies with the Highest Layoffs
 The top 3 companies with the most layoffs are as follows:
 1.	Amazon: 18,150 layoffs
 2.	Google: 12,000 layoffs
 3.	Meta: 11,000 layoffs
+
 5. Industries with the Highest Layoffs
 The industries with the most significant layoffs in the dataset are:
 1.	Consumer: 45,182 layoffs
 2.	Retail: 43,613 layoffs
 3.	Transformation: 33,748 layoffs
+
 6. Countries with the Highest Layoffs
 The countries experiencing the highest number of layoffs are:
 1.	United States: 256,559 layoffs
 2.	India: 35,993 layoffs
 3.	Netherlands: 17,220 layoffs
+
 7. Layoffs by Year
 The total number of layoffs by year shows a significant fluctuation:
 •	2022: 160,661 layoffs
 •	2023: 125,677 layoffs
 •	2020: 80,998 layoffs
 •	2021: 15,823 layoffs
+
 8. Layoffs by Month
 Here’s a breakdown of the layoffs by month:
 •	2020-03: 9,628 layoffs
