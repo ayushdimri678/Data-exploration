@@ -33,3 +33,11 @@ The analysis focuses on:
 4 Highlighting companies with the highest layoffs and fundraising amounts.
 
 5 Calculating rolling totals of layoffs.
+
+**HOW TO NAVIGATE**
+
+1 Refer to Data exploration.sql to see all the quesries
+
+2 refer to results highlight.pdf to see the screenshot of result
+
+3 refer to results.md to see the results we got from the analysis
